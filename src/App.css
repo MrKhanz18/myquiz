@@ -1,0 +1,19 @@
+.bg
+{
+    background-image: linear-gradient(white,coral,white);
+    background-size: 'cover';
+     
+}
+
+#para
+{
+    border-color: black;
+    border-style:solid;
+    border-radius: 20px;
+    padding: 5px; 
+}
+
+#butSel
+{
+    margin-left: 5px;
+}

@@ -1,0 +1,7 @@
+:::Approach for MyQuiz:::
+
+components:
+a) Homepage (App.js)
+	1) Welcome note 
+	2) Differents buttons for load different question papers
+b) Components for each subjects 

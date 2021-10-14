@@ -1,0 +1,110 @@
+{
+    "english":[
+        {
+            "id":1,
+            "ques":"New York is ___ large city.",
+            "option":["a","an","the","no article"],
+            "ans":"a",
+            "status":"",
+            "input":""
+        },
+        {
+            "id":2,
+            "ques":"Are you attending ___ reception today.",
+            "option":["a","an","the","no article"],
+            "ans":"the",
+            "status":"",
+            "input":""
+        },
+        {
+            "id":3,
+            "ques":"___ oranges are grown in Nagpur.",
+            "option":["a","an","the","no article"],
+            "ans":"no article",
+            "status":"",
+            "input":""
+        },
+        {
+            "id":4,
+            "ques":"She wants to become ___ engineer.",
+            "option":["a","an","the","no article"],
+            "ans":"an",
+            "status":"",
+            "input":""
+        },
+        {
+            "id":5,
+            "ques":"___ lion is a ferocious animal.",
+            "option":["a","an","the","no article"],
+            "ans":"the",
+            "status":"",
+            "input":""
+        }
+    ],
+    "math":[
+        {
+            "id":1,
+            "ques":"",
+            "option":[""],
+            "ans":""
+        },
+        {
+            "id":2,
+            "ques":"",
+            "option":[""],
+            "ans":""
+        },
+        {
+            "id":3,
+            "ques":"",
+            "option":[""],
+            "ans":""
+        },
+        {
+            "id":4,
+            "ques":"",
+            "option":[""],
+            "ans":""
+        },
+        {
+            "id":5,
+            "ques":"",
+            "option":[""],
+            "ans":""
+        }
+
+    ],
+    "gk":[
+        {
+            "id":1,
+            "ques":"",
+            "option":[""],
+            "ans":""
+        },
+        {
+            "id":2,
+            "ques":"",
+            "option":[""],
+            "ans":""
+        },
+        {
+            "id":3,
+            "ques":"",
+            "option":[""],
+            "ans":""
+        },
+        {
+            "id":4,
+            "ques":"",
+            "option":[""],
+            "ans":""
+        },
+        {
+            "id":5,
+            "ques":"",
+            "option":[""],
+            "ans":""
+        }
+
+    ]
+}
